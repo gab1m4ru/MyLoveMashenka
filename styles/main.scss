@@ -1,0 +1,15 @@
+// BASE
+@import "base/reset";
+@import "base/base";
+@import "base/vars";
+
+// BLOCKS
+@import "blocks/header";
+@import "blocks/buttons";
+@import "blocks/promo";
+@import "blocks/contacts";
+
+@import "blocks/footer";
+
+// ADAPTIVE
+@import "adaptive";

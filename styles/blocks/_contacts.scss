@@ -1,0 +1,25 @@
+.contacts {
+  margin-top: 100px;
+}
+
+.contacts__body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contact-text {
+  width: 615px;
+
+  .contact-title {
+    margin-bottom: 10px;
+  }
+
+  p {
+    margin-bottom: 30px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}
